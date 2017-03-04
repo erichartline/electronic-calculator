@@ -4,7 +4,7 @@ Mobile-responsive electronic calculator that can perform basic mathematical func
 Built using HTML5, CSS3, JavaScript and jQuery.
 
 Features:
-*
+* TBA
 
 Future ideas:
-*
+* TBA
