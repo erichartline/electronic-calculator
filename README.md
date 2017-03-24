@@ -1,10 +1,16 @@
 # Electronic Calculator
 Mobile-responsive electronic calculator that can perform basic mathematical functions.
 
-Built using HTML5, CSS3, JavaScript and jQuery.
+Live Demo: [https://wildlifehexagon.github.io/twitchtv-channel-app/](https://wildlifehexagon.github.io/twitchtv-channel-app/)
+
+Built with HTML, CSS, Bootstrap, JavaScript and jQuery.
 
 Features:
-* TBA
+* Display shows both current input and entire history
+* Bans the use of multiple operators and decimals back-to-back
+* Limits output to match screen size
 
 Future ideas:
-* TBA
+* Implement keyboard functionality
+
+Original freeCodeCamp challenge: [https://www.freecodecamp.com/challenges/build-a-javascript-calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)
