@@ -1,7 +1,7 @@
 # Electronic Calculator
 Mobile-responsive electronic calculator that can perform basic mathematical functions.
 
-Live Demo: [https://wildlifehexagon.github.io/twitchtv-channel-app/](https://wildlifehexagon.github.io/twitchtv-channel-app/)
+Live Demo: [https://wildlifehexagon.github.io/electronic-calculator/](https://wildlifehexagon.github.io/electronic-calculator/)
 
 Built with HTML, CSS, Bootstrap, JavaScript and jQuery.
 
